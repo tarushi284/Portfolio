@@ -1,0 +1,194 @@
+body{
+    background-color:#EEEDEB;
+}
+/**{
+    background-color:lightblue;
+}*/
+.navbar-brand{
+    color:black !important;
+    font-weight:bolder;
+    font-size:2rem !important;
+    font-family:"Merriweather";
+}
+.nav-link{
+    color:black !important;
+    font-size:1.25rem !important;
+    padding:0px 20px !important;
+    font-family:"Merriweather";
+}
+.navbar{
+    padding-top:20px !important;
+    padding:20px 40px !important;
+}
+.left{
+    width:40%;
+    margin-top:150px;
+    margin-left:100px;
+    font-family:"Merriweather";
+    font-weight:bold;
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+}
+.name{
+    font-family:"Kalnia Glaze" !important;
+}
+.right{
+    display:flex;
+    /*align-items:center;*/
+    flex-direction:row;
+}
+.img{
+    width:500%;
+    margin-left:100px !important;
+    margin-top:50px;
+}
+.main-div{
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+}
+hr{
+    width:85%;
+}
+#main{
+    margin-left: 50px !important;
+}
+hr{
+    color:black;
+    border: 1px solid !important;
+    border-bottom:none;
+}
+.left{
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+}
+.para{
+    width:60%;
+    margin-top:40px;
+    margin-left:120px;
+    font-family:"Merriweather";
+    display:flex;
+    
+    flex-direction:row;
+    
+    line-height:2.5;
+}
+ .h1{
+    text-align:center;
+    font-family:"Kalnia Glaze" !important;
+    font-size:3.5rem !important;
+}
+.right{
+    display:flex;
+    align-items:center;
+    flex-direction:row;
+}
+ .taru{
+    display:flex;
+    flex-direction:row;
+    margin-right:150px;
+}
+#about{
+    display:flex;
+    flex-direction:row;
+    padding-bottom:30px;
+}
+.hehe{
+    margin-top:60px;
+}
+.animated{
+    font-family:"Merriweather";
+    width:60%;
+    margin-top:40px;
+    margin-left:120px;
+    font-family:"Merriweather";
+    display:flex;
+    flex-direction:row;
+    line-height:2;
+}
+.anime-para{
+    width:60%;
+    
+    margin-left:120px;
+    font-family:"Merriweather";
+    display:flex;
+    
+    flex-direction:row;
+    
+    line-height:2;
+}
+.anime-img{
+    margin-top:50px;
+    width:60%;
+    display:flex;
+    justify-content:center;
+    position:relative;
+    left:300px;
+    align-items:center !important;
+}
+
+footer{
+    background-color:#698474;
+    text-align:center;
+    align-items: center;
+    padding:40px 0px;
+    margin-bottom:0px;
+    
+}
+i{
+    color:black;
+    margin-bottom:0px;
+    margin-left:17px;
+}
+i:hover{
+    color:blue;
+}
+#projects{
+    padding-bottom:50px;
+}
+.left-skills{
+    display:flex;
+    align-items:center;
+    width:50%;
+   padding-left:100px;
+
+}
+.right-skills {
+    display:felx;
+    align-items:center;
+    width:50%;
+   padding-left:100px !important;
+}
+ul{
+    margin-top:20px !important;
+    line-height:2;
+}
+#skills{
+    display:flex;
+    flex-direction:row;
+    padding-left:200px;
+    margin-top:20px;
+    padding-bottom:20px;
+    font-family:"Merriweather";
+}
+.resume{
+    font-family:"Merriweather";
+    text-align:center !important;
+    margin-top:40px !important;
+    padding-bottom:10px;
+    
+}
+.resume a{
+    text-decoration-line:underline;
+   
+}
+.contact{
+    font-family:"Merriweather";
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+}
